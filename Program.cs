@@ -56,7 +56,7 @@ namespace prova_djalma_exercicio_3
                     Console.Write("informe a altura do paralelogramo ");
                     h = Convert.ToDouble(Console.ReadLine());
                     a = (ba * h);
-                    Console.Write($"a area do paralelogrmo e {a} ");
+                    Console.Write($"a area do paralelogramo e {a} ");
                     break;
 
             }
